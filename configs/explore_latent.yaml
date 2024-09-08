@@ -1,0 +1,9 @@
+# explore latent dimension with tVAE by run.py
+MODEL:
+  VARIATIONAL: TRUE
+
+TRAIN:
+  CHECKPOINT_INTERVAL: 1000  # no checkpoint needed
+  VAL_DRAW_INTERVAL: 1000  # no need for plots during training
+
+  

@@ -1,0 +1,7 @@
+# few updates for debug
+MODEL:
+  VARIATIONAL: TRUE
+
+TRAIN:
+  VAL_INTERVAL: 1
+  NUM_UPDATES: 2
